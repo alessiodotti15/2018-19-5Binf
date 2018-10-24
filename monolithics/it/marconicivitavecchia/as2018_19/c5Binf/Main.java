@@ -37,7 +37,7 @@ public class Main extends JFrame {
 		// create a table
 		sb.append("<div style='display:table'>");
 		
-		// create a row
+		// create a row come me pare
 		sb.append("<div style='display:table-row'>");
 		
 		sb.append("<div style='display:table-cell'>");
